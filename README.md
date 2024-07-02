@@ -32,7 +32,7 @@
   <a  href="https://www.linkedin.com/in/rosdrigo">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" href="https://www.linkedin.com/in/rosdrigo" height="40" alt="linkedin logo"  />
     </a>
-  <a https://www.instagram.com/rosdrigol>
+  <a href="https://www.instagram.com/rosdrigol" >
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo"  />
   </a>
 </div>
