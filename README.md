@@ -64,7 +64,7 @@ public class rosdrigo {
  ```
 ###
 
-<img src="https://raw.githubusercontent.com/rosdrigo/rosdrigo/output/snake.svg" alt="Snake animation" />
+
 
 
 
